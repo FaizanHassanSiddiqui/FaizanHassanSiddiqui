@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- I am Faizan
+Mathematically and professionally strong Data Scientist with 3 years of diverse experience. Adept at 
+implementing the data science workflow on tabular data, text data, graph data and image data; technically 
+strong from Exploratory Data Analysis to applying Statistical Analysis to predictive modelling to presenting 
+insights in beautiful charts.
 
 <!--
 **FaizanHassanSiddiqui/FaizanHassanSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
