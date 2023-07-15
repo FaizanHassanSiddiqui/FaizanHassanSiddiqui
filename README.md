@@ -5,6 +5,8 @@ implementing the data science workflow on tabular data, text data, graph data an
 strong from Exploratory Data Analysis to applying Statistical Analysis to predictive modelling to presenting 
 insights in beautiful charts.
 
+Please get in touch with me if you're interested in working on a project together or if you have any queries.
+
 <!--
 **FaizanHassanSiddiqui/FaizanHassanSiddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
