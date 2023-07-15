@@ -6,7 +6,7 @@ strong from Exploratory Data Analysis to applying Statistical Analysis to predic
 insights in beautiful charts.
 
 Skills
-- Programming languages: Python, C++, TypeScript
+- Programming languages: Python, R, SQL, C++, TypeScript
 - Data Science and ML Stack: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Open-CV, Pytorch, Tensorflow
 - Types of Data worked with: Tabular, Images, Text, Graph
 - Research Areas: TDA and Medical Imaging
