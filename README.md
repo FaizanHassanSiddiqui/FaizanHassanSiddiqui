@@ -5,7 +5,7 @@ implementing the data science workflow on tabular data, text data, graph data an
 strong from Exploratory Data Analysis to applying Statistical Analysis to predictive modelling to presenting 
 insights in beautiful charts.
 
-Skills
+**Skills**
 - Programming languages: Python, R, SQL, C++, TypeScript
 - Data Science and ML Stack: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Open-CV, Pytorch, Tensorflow
 - Types of Data worked with: Tabular, Images, Text, Graph
