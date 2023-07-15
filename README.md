@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Mathematically and professionally strong Data Scientist with 3 years of diverse experience. Adept at 
-implementing the data science workflow on tabular data, text data, graph data and image data; technically 
-strong from Exploratory Data Analysis to applying Statistical Analysis to predictive modelling to presenting 
-insights in beautiful charts.
+I am a mathematically inclined and professionally strong Data Scientist with 3 years of diverse experience. I am adept at 
+implementing the data science and ML workflow on tabular data, text data, graph data and image data;from Exploratory Data Analysis to applying Statistical Analysis to predictive modelling to presenting insights in beautiful charts.
 
 **Skills**
 - Programming languages: Python, R, SQL, C++, TypeScript
