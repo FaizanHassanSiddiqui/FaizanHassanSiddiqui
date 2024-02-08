@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a mathematically inclined and professionally strong Data Scientist with 3 years of diverse experience. I am adept at 
+I am a mathematically inclined and professionally strong Data Scientist with 4 years of diverse experience. I am adept at 
 implementing the data science and ML workflow on tabular data, text data, graph data and image data;from Exploratory Data Analysis to applying Statistical Analysis to predictive modelling to presenting insights in beautiful charts.
 
 **Skills**
